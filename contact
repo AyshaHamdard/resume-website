@@ -1,0 +1,38 @@
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Aysha Hamdard - Contact</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Aysha Hamdard</h1>
+    <p>Resume</p>
+</header>
+
+<nav>
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="education.html">Education</a></li>
+        <li><a href="skills.html">Skills</a></li>
+        <li><a href="experience.html">Experience</a></li>
+        <li><a href="contact.html">Contact</a></li>
+    </ul>
+</nav>
+
+<main>
+    <h2>Contact Information</h2>
+     <div class="contact-info">
+            <p><strong>Location:</strong> Woodbridge, VA 22192</p>
+            <p><strong>Email:</strong> 
+                <a href="mailto:Hamdardaysha@gmail.com">Hamdardaysha@gmail.com</a>
+            </p>
+            <p><strong>Phone:</strong> (240) 796-5588</p>
+        </div>
+
+    </main>
+</body>
+</html>
